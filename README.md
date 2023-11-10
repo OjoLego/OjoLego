@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/ojo_lego" target="blank"><img src="https://img.shields.io/twitter/follow/ojo_lego?logo=twitter&style=for-the-badge" alt="ojo_lego" /></a> </p>
 
-- 🔭 I’m currently working on **Model View ViewModel**
+- 🔭 I’m currently working on **Clean Architecture Note App**
 
-- 🌱 I’m currently learning **Network calling**
+- 🌱 I’m currently learning **Unit Tests, UI Tests and End-to-End Tests**
 
 - 👯 I’m looking to collaborate on **Mobile developement project**
 
 - 📝 I regularly write articles on [Android developement](Android developement)
 
-- 💬 Ask me about **Kotlin,Android studio**
+- 💬 Ask me about **Kotlin,Java,Android studio**
 
 - 📫 How to reach me **legoviewsphotography@gmail.com**
 
