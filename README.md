@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **Clean Architecture Note App**
 
-- 🌱 I’m currently learning **Unit Tests, UI Tests and End-to-End Tests**
+- 🌱 I’m currently learning **App security and deployment,Unit Tests, UI Tests and End-to-End Tests**
 
 - 👯 I’m looking to collaborate on **Mobile developement project**
 
 - 📝 I regularly write articles on [Android developement](Android developement)
 
-- 💬 Ask me about **Kotlin,Java,Android studio**
+- 💬 Ask me about **Kotlin,Flutter,Java,Android studio**
 
 - 📫 How to reach me **legoviewsphotography@gmail.com**
 
